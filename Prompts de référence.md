@@ -24,28 +24,67 @@
 | Partenaires de terrain | Médecin coordonnateur de la zone sanitaire Abomey-Calavi – Sô-Ava, points focaux, responsables sanitaires et administratifs, **relais communautaires, chefs de villages**, responsables locaux |
 | Encadrement académique | Directrice : **Pr Colette AZANDJEME**, cheffe de filière Nutrition et Santé des Populations ; co-directeur : **M. Judicaël TODEDJI** |
 
-### 1.2 Éléments à compléter avec ton CV (à me transmettre)
+### 1.2 Éléments vérifiés — issus de mon CV (« Marie Edith (1).pdf »)
 
-> Tant que ce tableau est vide, **aucun CV ni lettre ne doit être rédigé**. Aucune information ne sera inventée.
+**État civil et contact**
+- Nom : **MARIE EDITH R. A. M. GNACADJA** (usage : Marie-Edith GNACADJA)
+- Titre figurant au CV : **Ingénieur en Biologie Médicale**
+- E-mail : edithgnaca1@gmail.com — Téléphone : +229 62 07 56 06
+- Résidence : Womey, Calavi (Abomey-Calavi, Bénin)
+- Intitulés de profil utilisés dans le CV : chercheure stagiaire en microbiologie moléculaire et médicale ; graphiste ; nutritionniste santé publique
 
-| Catégorie | À renseigner |
-|---|---|
-| État civil / contact | Nom, prénom, date de naissance, téléphone, e-mail, commune de résidence, nationalité, permis |
-| Formation antérieure | Licence / baccalauréat, établissements, années, mentions |
-| Formation en graphisme | Intitulé, organisme, durée, année, logiciels maîtrisés (Adobe, Canva, etc.) |
-| Stages | Structure, intitulé, dates, lieu, missions, encadrant, réalisations |
-| Expériences professionnelles | Postes, employeurs, dates, missions |
-| Engagements associatifs / bénévolat | Structure, rôle, dates |
-| Compétences techniques | Outils de collecte et d'analyse (KoboToolbox, ODK, Excel, SPSS, R, Epi Info, DHIS2…), bureautique, PAO |
-| Langues | Français, anglais, langues nationales — niveau réel pour chacune |
-| Publications / communications | Le mémoire, communications orales, posters, rapports |
-| Références | Personnes citées dans le mémoire (Pr AZANDJEME, M. TODEDJI, Dr METONNOU Clémence, Dr CHABI Chatine) — accord à confirmer |
+**Formations**
+| Période | Diplôme / certification | Établissement |
+|---|---|---|
+| 2018-2019 | Baccalauréat D | Collège Catholique St Augustin |
+| 2019-2020 | Formation en Graphisme | EIGB – Cotonou |
+| 2020-2023 | Licence en Biologie Médicale | IRGIB-AFRICA – Cotonou |
+| 2023-2024 | Certification en Microbiologie Basic (délivrée par l'OMS) | URMAPHA |
+| Oct. 2024 – mai 2025 | Diplôme Universitaire en Éducation Nutritionnelle pour l'Afrique Francophone (en ligne) | Université Senghor |
+| 2024-2025 | Master 1 Nutrition et santé des populations | IRSP – Ouidah |
+| 2025-2026 | Master 2 Nutrition et santé des populations | IRSP – Ouidah |
 
-### 1.3 Projet professionnel (ta formulation, à reprendre telle quelle)
+**Stages et expériences**
+1. **Stage académique – Zone sanitaire Abomey-Calavi / Sô-Ava** (communauté), mai 2026 : conduite d'une étude interventionnelle sur l'hygiène hydro-fécale et alimentaire ; échantillonnage ; collecte de données ; observations ménagères ; analyse des scores CAPP ; comparaison avant/après intervention ; formulation de recommandations en santé publique.
+2. **Stage académique – Analyse de situation nutritionnelle, zone sanitaire Aplahoué–Djakotomey–Dogbo (ADD)**, février 2026 : analyse de situation nutritionnelle ; collecte et analyse de données DHIS2, annuaires statistiques et PDC ; enquêtes qualitatives (entretiens et observations de terrain) ; analyse des indicateurs nutritionnels et SWOT ; priorisation des problèmes de santé ; rédaction du rapport.
+3. **Stage académique – Direction départementale de la santé du Littoral (DDS Littoral)**, septembre 2025 : analyse de situation sanitaire départementale ; identification et priorisation des problèmes de santé publique (couverture vaccinale) ; exploitation de documents de planification (lettre de mission, AOF) ; entretiens avec les responsables des divisions Santé publique et riposte, et Santé communautaire ; analyse SWOT ; élaboration d'un plan opérationnel avec objectifs SMART, stratégies, activités et indicateurs ; initiation à la planification, au suivi et à l'évaluation ; rédaction du rapport.
+4. **URMAPHA (Unité de Recherche en Microbiologie Appliquée et Pharmacopée), 2023-2024**
+   - Stagiaire en microbiologie moléculaire et médicale : préparation et traitement d'échantillons biologiques ; culture et entretien de micro-organismes ; tenue de notes de laboratoire et rédaction de rapports ; respect des normes de sécurité et de qualité.
+   - Gestionnaire du volet administratif : archivage et transmission des dossiers, rédaction et enregistrement de courriers, préparation de rapports d'activités et de rapports de qualité, documentation des procédures et protocoles.
+   - Participation aux activités de l'unité : organisation d'une activité sur les revues et conférences prédatrices ; organisation de l'atelier du Programme de leadership scientifique au Bénin (leadership scientifique pour le développement durable et l'innovation technologique).
+   - **Enquêtrice** dans le cadre du projet Minangan : enquête sur la médecine traditionnelle au Bénin (pratiques, interactions et perspectives liées à l'utilisation des plantes médicinales).
+
+**Compétences déclarées (niveaux auto-évalués dans le CV — à conserver tels quels)**
+- ✓✓✓ : santé publique, nutrition et épidémiologie ; conception et conduite d'enquêtes de terrain ; collecte, gestion et contrôle qualité des données ; rédaction scientifique, rapports d'activités et comptes rendus ; élaboration de questionnaires et outils de collecte ; techniques de laboratoire biomédical ; compréhension et application des principes scientifiques ; rigueur, précision et respect des procédures de qualité ; **KoboCollect** ; **Canva** (affiches, posters, supports de communication) ; Word ; PowerPoint ; communication écrite et orale ; communication scientifique et présentation de résultats ; **conception de supports d'éducation et de sensibilisation en santé** ; travail en équipe et collaboration multidisciplinaire ; sens de l'analyse, esprit critique et résolution de problèmes ; autonomie, disponibilité et respect des délais.
+- ✓✓ : analyse statistique et interprétation des résultats ; suivi-évaluation des programmes et projets de santé ; Excel ; Stata ; Epi Info ; organisation et coordination des activités de terrain.
+- ✓ : gestion des situations de crise et adaptation aux imprévus.
+
+**Langues**
+- Français : expression orale et écrite ✓✓✓
+- Anglais : lecture et compréhension de documents scientifiques, expression orale et écrite ✓✓
+- **Aucune langue nationale ni aucun permis de conduire ne figure au CV** → voir 1.3.
+
+**Références (accord à confirmer avant utilisation)**
+- **Dr Brice Boris LEGBA, PhD** — Chercheur en microbiologie, URMAPha, École Polytechnique d'Abomey-Calavi — legba.brice@gmail.com — +229 66 01 09 41
+- **Professeure Colette AZANDJEME, MD** — Médecin, Maître de Conférences Agrégée en Santé Publique, IRSP-CAQ, Université d'Abomey-Calavi
+- Autres personnes citées dans le mémoire (M. Judicaël TODEDJI, co-directeur ; Dr METONNOU Clémence ; Dr CHABI Chatine, médecin coordonnateur de zone sanitaire) — mobilisables sur accord.
+
+### 1.3 Points à confirmer (ne jamais les supposer)
+
+| Point | Pourquoi c'est sensible | Statut |
+|---|---|---|
+| Langues nationales (fon, goun, aja…) | Fréquemment exigées pour les postes communautaires au Bénin | **À confirmer** — ne rien écrire sans réponse |
+| Permis de conduire / mobilité terrain | Exigé pour les postes de terrain | **À confirmer** |
+| Statut exact des expériences (stage académique vs contrat) | Une expérience de stage ne doit jamais être présentée comme un emploi | Stage académique pour les 3 stages ; stage + fonctions administratives pour URMAPHA |
+| Nationalité / autorisation de travail | Éliminatoire pour les postes réservés aux ressortissants d'un pays | **À confirmer** (présumée béninoise) |
+| Disponibilité et préavis | Demandés dans la plupart des formulaires | **À confirmer** |
+| Prétentions salariales | Demandées par plusieurs annonces (AbT-E, etc.) | **À confirmer** |
+
+### 1.4 Projet professionnel (ta formulation, à reprendre telle quelle)
 
 > « Je souhaite travailler **au contact des communautés** et aider les populations à **améliorer leurs pratiques alimentaires**, en valorisant les ressources dont elles disposent déjà : ressources alimentaires locales, moyens financiers et matériels. À terme, contribuer à l'amélioration de la nutrition des populations au Bénin, par le travail communautaire et la valorisation des ressources locales. »
 
-### 1.4 Règle absolue (non négociable)
+### 1.5 Règle absolue (non négociable)
 
 - **Interdit** : ajouter un diplôme, une expérience, une compétence, un outil, une langue, une durée, un chiffre ou une réalisation qui ne figure pas dans le CV ou le mémoire.
 - **Autorisé** : reformuler, réorganiser, hiérarchiser, traduire une expérience réelle dans les mots de l'offre, expliciter ce qui est déjà implicite dans le parcours.

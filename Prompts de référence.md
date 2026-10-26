@@ -73,8 +73,9 @@
 
 | Point | Pourquoi c'est sensible | Statut |
 |---|---|---|
-| Langues nationales (fon, goun, aja…) | Fréquemment exigées pour les postes communautaires au Bénin | **À confirmer** — ne rien écrire sans réponse |
-| Permis de conduire / mobilité terrain | Exigé pour les postes de terrain | **À confirmer** |
+| Langues nationales | Fréquemment exigées pour les postes communautaires au Bénin | **Confirmé : fon, goun** (parlé couramment) |
+| Permis de conduire | Exigé pour les postes de terrain | **Confirmé : permis B, sans véhicule personnel** — ne jamais mentionner de véhicule |
+| Date de naissance / âge | Critère éliminatoire pour les programmes « jeunes » (ex. FAO : 21-30 ans) | **À confirmer** |
 | Statut exact des expériences (stage académique vs contrat) | Une expérience de stage ne doit jamais être présentée comme un emploi | Stage académique pour les 3 stages ; stage + fonctions administratives pour URMAPHA |
 | Nationalité / autorisation de travail | Éliminatoire pour les postes réservés aux ressortissants d'un pays | **À confirmer** (présumée béninoise) |
 | Disponibilité et préavis | Demandés dans la plupart des formulaires | **À confirmer** |

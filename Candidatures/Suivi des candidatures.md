@@ -18,7 +18,7 @@ Chaque dossier est traité dans l'ordre que tu valides. Rien n'est rédigé avan
 
 | N° | Structure / Offre | Lieu | Date limite | Éligibilité | Statut |
 |---|---|---|---|---|---|
-| 1 | FAO — Programme de stage pour l'Afrique (RAF) | Afrique (lieux divers) | 31 décembre 2026 | À vérifier | À traiter |
+| 1 | FAO — Programme de stage pour l'Afrique (RAF) | Afrique (lieux divers) | 31 décembre 2026 | ✅ Éligible (3 points à lever) | **Dossier rédigé** — reste : diplômes à joindre, âge et résidence à vérifier |
 | 2 | FAO — Programme ordinaire de volontaires pour l'Afrique | Afrique (lieux divers) | 31 décembre 2026 | À vérifier (non rémunéré) | À traiter |
 | 3 | PAM — 3 Volontaires ONU communautaires | Bohicon / Kandi / Natitingou, Bénin | 28-29 octobre 2026 | **Critère de résidence à vérifier** | À traiter |
 | 4 | PAM — Programme Associate (Nutrition), SC-6 | Kigali, Rwanda | 29 octobre 2026 | Écart important (6 ans d'expérience) | À traiter |
